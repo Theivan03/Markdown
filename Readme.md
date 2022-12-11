@@ -1,3 +1,4 @@
 Nombre:
-    Ivan
-C
+    * Ivan
+Apellidos:
+    * Cabrera Reig
